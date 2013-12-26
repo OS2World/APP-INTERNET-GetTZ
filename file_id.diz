@@ -1,0 +1,12 @@
+        GetTZ 1.1
+=============================
+ FREE INI File TimeZone from Environment
+
+Features:
+   - Parses standard TZ environment string
+   - Stores current timezone in any OS/2
+     INI file with caller specified Application/KeyName
+
+Sample rexx script used for PMINews included.
+
+
